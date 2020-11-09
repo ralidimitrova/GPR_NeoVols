@@ -18,6 +18,14 @@ and preprocessed using the official [dHCP structural pipeline](https://github.co
 
 -------
 
+### Cite: ###
+
+Please cite the following publication:
+
+Dimitrova, R. et al. "Individualized characterization of volumetric development in the preterm brain." bioRxiv (2020).
+
+--------
+
 ### Dependencies: ###
 
 * python => 3.7 
@@ -27,7 +35,7 @@ and preprocessed using the official [dHCP structural pipeline](https://github.co
 * [GPy](https://github.com/SheffieldML/GPy) 
 * matplotlib
 
-____________
+--------
 
 ### Input data: ###
 
@@ -50,7 +58,13 @@ Makropoulos, A. et al. "The developing human connectome project: A minimal proce
 
 ------
 
-
 *Watch this space for further updates.*
+
+------
+
+### License: ###
+
+The data distributed with this work are made available under a [CC-BY 4.0 International license.](https://creativecommons.org/licenses/by/4.0/)
+
 
 
