@@ -22,7 +22,7 @@ and preprocessed using the official [dHCP structural pipeline](https://github.co
 
 Please cite the following publication:
 
-Dimitrova, R. et al. "Individualized characterization of volumetric development in the preterm brain." bioRxiv (2020).
+Dimitrova, R. et al. "Phenotyping the preterm brain: characterising individual deviations from normative volumetric development in two large infant cohorts." bioRxiv (2020).
 
 --------
 
