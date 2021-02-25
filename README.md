@@ -3,7 +3,7 @@
 
 ### Summary: ###
 
-Jupyter Notebook & train data for recreating the normative charts from [Dimitrova et al., (2020)](https://www.biorxiv.org/content/10.1101/2020.08.05.228700v1?rss=1). 
+Jupyter Notebook & train data for recreating the normative charts from [Dimitrova et al., (2020)](https://www.biorxiv.org/content/10.1101/2020.08.05.228700v2.full). 
 This notebook will allow the user to 
 
 * run Gaussian Process Regression (GPR) on the normative volumetric data provided in ./data/
@@ -14,7 +14,7 @@ This notebook will allow the user to
 Normative data comprise volumetric measures for 274 term-born infants scanned after birth for the [developing Human Connectome Project](http://www.developingconnectome.org/)
 and preprocessed using the official [dHCP structural pipeline](https://github.com/BioMedIA/dhcp-structural-pipeline)  [(Makropoulos et al., 2018)](https://pubmed.ncbi.nlm.nih.gov/29409960/).
 
-*The dHCP imaging data will be publicly available in late 2020. For updates check [here](http://www.developingconnectome.org/second-data-release/).*
+*The dHCP imaging data will be publicly available in early 2021. For updates check [here](http://www.developingconnectome.org/second-data-release/).*
 
 -------
 
@@ -52,7 +52,7 @@ Dimitrova, R. et al. "Individualized characterization of volumetric development 
 
 ### References: ###
 
-Dimitrova, R. et al. "Individualized characterization of volumetric development in the preterm brain." bioRxiv (2020). [link](https://www.biorxiv.org/content/10.1101/2020.08.05.228700v1?rss=1)
+Dimitrova, R. et al. "Phenotyping the preterm brain: characterising individual deviations from normative volumetric development in two large infant cohorts" bioRxiv (2020). [link](https://www.biorxiv.org/content/10.1101/2020.08.05.228700v2.full)
 
 Makropoulos, A. et al. "The developing human connectome project: A minimal processing pipeline for neonatal cortical surface reconstruction." Neuroimage 173 (2018): 88-112. [link](https://www.sciencedirect.com/science/article/abs/pii/S1053811918300545?via%3Dihub)
 
