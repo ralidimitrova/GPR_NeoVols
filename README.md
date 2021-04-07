@@ -3,7 +3,7 @@
 
 ### Summary: ###
 
-Jupyter Notebook & train data for recreating the normative charts from [Dimitrova et al., (2020)](https://www.biorxiv.org/content/10.1101/2020.08.05.228700v2.full). 
+Jupyter Notebook & train data for recreating the normative charts from [Dimitrova et al., (2021)](https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhab039/6206863). 
 This notebook will allow the user to 
 
 * run Gaussian Process Regression (GPR) on the normative volumetric data provided in ./data/
@@ -22,7 +22,7 @@ and preprocessed using the official [dHCP structural pipeline](https://github.co
 
 Please cite the following publication:
 
-Dimitrova, R. et al. "Phenotyping the preterm brain: characterising individual deviations from normative volumetric development in two large infant cohorts." bioRxiv (2020).
+Dimitrova, R. et al. "Phenotyping the Preterm Brain: Characterizing Individual Deviations From Normative Volumetric Development in Two Large Infant Cohorts", Cerebral Cortex, (2021), bhab039, https://doi.org/10.1093/cercor/bhab039.
 
 --------
 
@@ -52,7 +52,7 @@ Dimitrova, R. et al. "Phenotyping the preterm brain: characterising individual d
 
 ### References: ###
 
-Dimitrova, R. et al. "Phenotyping the preterm brain: characterising individual deviations from normative volumetric development in two large infant cohorts" bioRxiv (2020). [link](https://www.biorxiv.org/content/10.1101/2020.08.05.228700v2.full)
+Dimitrova, R. et al. "Phenotyping the Preterm Brain: Characterizing Individual Deviations From Normative Volumetric Development in Two Large Infant Cohorts", Cerebral Cortex (2021). [link](https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhab039/6206863)
 
 Makropoulos, A. et al. "The developing human connectome project: A minimal processing pipeline for neonatal cortical surface reconstruction." Neuroimage 173 (2018): 88-112. [link](https://www.sciencedirect.com/science/article/abs/pii/S1053811918300545?via%3Dihub)
 
